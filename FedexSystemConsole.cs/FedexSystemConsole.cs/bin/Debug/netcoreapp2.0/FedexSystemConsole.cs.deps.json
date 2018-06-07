@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "FedexSystemConsole.cs/1.0.0": {
+        "dependencies": {
+          "Shipperorderlib": "1.0.0",
+          "fedexlibrary.cs": "1.0.0"
+        },
+        "runtime": {
+          "FedexSystemConsole.cs.dll": {}
+        }
+      },
+      "fedexlibrary.cs/1.0.0": {
+        "runtime": {
+          "fedexlibrary.cs.dll": {}
+        }
+      },
+      "Shipperorderlib/1.0.0": {
+        "runtime": {
+          "Shipperorderlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FedexSystemConsole.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "fedexlibrary.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shipperorderlib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

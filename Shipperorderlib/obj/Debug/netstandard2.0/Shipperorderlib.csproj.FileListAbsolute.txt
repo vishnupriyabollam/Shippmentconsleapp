@@ -1,0 +1,9 @@
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\Shipperorderlib\obj\Debug\netstandard2.0\Shipperorderlib.csprojAssemblyReference.cache
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\Shipperorderlib\obj\Debug\netstandard2.0\Shipperorderlib.csproj.CoreCompileInputs.cache
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\Shipperorderlib\obj\Debug\netstandard2.0\Shipperorderlib.AssemblyInfoInputs.cache
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\Shipperorderlib\obj\Debug\netstandard2.0\Shipperorderlib.AssemblyInfo.cs
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\Shipperorderlib\bin\Debug\netstandard2.0\Shipperorderlib.deps.json
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\Shipperorderlib\bin\Debug\netstandard2.0\Shipperorderlib.dll
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\Shipperorderlib\bin\Debug\netstandard2.0\Shipperorderlib.pdb
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\Shipperorderlib\obj\Debug\netstandard2.0\Shipperorderlib.dll
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\Shipperorderlib\obj\Debug\netstandard2.0\Shipperorderlib.pdb

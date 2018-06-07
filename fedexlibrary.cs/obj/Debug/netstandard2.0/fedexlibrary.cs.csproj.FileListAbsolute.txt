@@ -1,0 +1,9 @@
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\fedexlibrary.cs\bin\Debug\netstandard2.0\fedexlibrary.cs.deps.json
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\fedexlibrary.cs\bin\Debug\netstandard2.0\fedexlibrary.cs.dll
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\fedexlibrary.cs\bin\Debug\netstandard2.0\fedexlibrary.cs.pdb
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\fedexlibrary.cs\obj\Debug\netstandard2.0\fedexlibrary.cs.csprojAssemblyReference.cache
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\fedexlibrary.cs\obj\Debug\netstandard2.0\fedexlibrary.cs.csproj.CoreCompileInputs.cache
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\fedexlibrary.cs\obj\Debug\netstandard2.0\fedexlibrary.cs.AssemblyInfoInputs.cache
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\fedexlibrary.cs\obj\Debug\netstandard2.0\fedexlibrary.cs.AssemblyInfo.cs
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\fedexlibrary.cs\obj\Debug\netstandard2.0\fedexlibrary.cs.dll
+C:\Users\Vishnupriya.Bollam\source\repos\fedexlibrary.cs\fedexlibrary.cs\obj\Debug\netstandard2.0\fedexlibrary.cs.pdb
